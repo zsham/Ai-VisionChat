@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Vision Chat",
+  "description": "An intelligent chatbot powered by Gemini 2.5 Flash. It can answer questions with up-to-date information using Google Search grounding and analyze photos you capture with your device's camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
